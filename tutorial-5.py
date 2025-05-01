@@ -26,6 +26,3 @@ print("   a  b  c")
 for count, row in enumerate(game):
 
     print(count, row)
-
-
-

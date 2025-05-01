@@ -18,6 +18,3 @@ for count, row in enumerate(game):
     ''' multi-line comment
     '''
     print(count, row)
-
-
-

@@ -12,5 +12,3 @@ print(type(game))
 # Display
 for row in game:
     print(row)
-
-

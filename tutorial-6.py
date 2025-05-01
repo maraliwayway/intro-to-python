@@ -1,4 +1,4 @@
-# tutorial-4.py
+# tutorial-6.py
 
 game = [[0, 0, 0],
         [0, 0, 0],
@@ -16,7 +16,3 @@ game_board()
 game[0][1] = 1
 
 game_board()
-    
-
-
-
